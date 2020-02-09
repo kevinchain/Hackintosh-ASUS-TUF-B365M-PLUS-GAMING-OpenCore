@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.vanilla.driver.CPUFriendDataProvider</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>CPUFriendDataProvider</string>
+	<key>CFBundlePackageType</key>
+	<string>KEXT</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>IOKitPersonalities</key>
+	<dict>
+		<key>CPUFriendDataProvider</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.driver.AppleACPIPlatform</string>
+			<key>IOClass</key>
+			<string>AppleACPICPU</string>
+			<key>IONameMatch</key>
+			<string>processor</string>
+			<key>IOProbeScore</key>
+			<integer>1100</integer>
+			<key>IOProviderClass</key>
+			<string>IOACPIPlatformDevice</string>
+			<key>cf-frequency-data</key>
+			<data>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</data>
+		</dict>
+	</dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2017 - 2019 PMheart. All rights reserved.</string>
+	<key>OSBundleRequired</key>
+	<string>Root</string>
+</dict>
+</plist>
