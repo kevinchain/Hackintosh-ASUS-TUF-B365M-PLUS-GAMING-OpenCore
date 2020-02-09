@@ -712,7 +712,7 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02951102J9KGQGJA</string>
+			<string>C02950301J9KGQGJC</string>
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
@@ -720,9 +720,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZV6Y5JWDW</string>
+			<string>C02ZTKZGJWDW</string>
 			<key>SystemUUID</key>
-			<string>A70BD2D3-96B7-4D04-972E-C1FD613C8A9A</string>
+			<string>7D893FBF-D7B6-4345-BADE-328DB1AC293D</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -741,7 +741,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-63001698E7A34814</string>
 			<key>BoardSerialNumber</key>
-			<string>C02951102J9KGQGJA</string>
+			<string>C02950301J9KGQGJC</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -751,7 +751,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02ZV6Y5JWDW</string>
+			<string>C02ZTKZGJWDW</string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
@@ -775,9 +775,9 @@
 			<key>SystemSKUNumber</key>
 			<string>Mac-63001698E7A34814</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZV6Y5JWDW</string>
+			<string>C02ZTKZGJWDW</string>
 			<key>SystemUUID</key>
-			<string>A70BD2D3-96B7-4D04-972E-C1FD613C8A9A</string>
+			<string>7D893FBF-D7B6-4345-BADE-328DB1AC293D</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
