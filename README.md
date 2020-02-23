@@ -1,4 +1,13 @@
-# Hackintosh-ASUS-TUF-B365M-PLUS-GAMING-OC
- OC folder for the tuf b360m-plus gaming
+ASUS TUF B365M-PLUS GAMING Hackintosh Opencore
+==============================================
 
- * Catalina 10.15.3
+  
+
+### MacOS Catalina 10.15.3
+
+*   Opencore 0.5.5
+*   RX580 + UHD630 + i5 8400
+*   Everything is Working
+    *   Like Nvram
+    *   IGPU (intel Quicksync)
+    *   Sleep Wake
