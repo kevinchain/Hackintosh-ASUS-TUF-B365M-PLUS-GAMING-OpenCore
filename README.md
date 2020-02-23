@@ -14,6 +14,6 @@ ASUS TUF B365M-PLUS GAMING Hackintosh Opencore
 
 
   
-![](./ScreenShots/ss1.jpg)
+![](./ScreenShots/ss1.png)
 =======
 
